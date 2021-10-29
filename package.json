@@ -1,21 +1,24 @@
 {
-    "name": "thebestcolorextensionalive",
-    "displayName": "TheBestColorExtensionAlive",
-    "description": "editor color theme for vs code",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.61.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "TheBestThemeAlive",
-                "uiTheme": "vs-dark",
-                "path": "./themes/TheBestThemeAlive-color-theme.json"
-            }
-        ]
-    }
+  "name": "thebestcolorextensionalive",
+  "displayName": "TheBestColorExtensionAlive",
+  "publisher": "hyziodyzio",
+  "description": "editor color theme for vs code",
+  "repository": "https://github.com/TheBestProgrammerAlive/thebestcolorextensionalive",
+  "icon": "knox.jpg",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TheBestThemeAlive",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TheBestThemeAlive-color-theme.json"
+      }
+    ]
+  }
 }
