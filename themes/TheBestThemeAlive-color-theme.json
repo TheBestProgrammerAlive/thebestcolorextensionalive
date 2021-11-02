@@ -15,8 +15,8 @@
     "activityBar.background": "#000000",
     "activityBar.border": "#6fc3df",
     "activityBar.dropBorder": "#ffffff",
-    "activityBar.foreground": "#ffffff",
-    "activityBar.inactiveForeground": "#ffffff",
+    "activityBar.foreground": "#fc9802",
+    "activityBar.inactiveForeground": "#eb9008",
     "activityBarBadge.background": "#000000",
     "activityBarBadge.foreground": "#ffffff",
     "badge.background": "#000000",
@@ -179,7 +179,7 @@
     "editorWidget.foreground": "#ffffff",
     "errorForeground": "#f48771",
     "extensionBadge.remoteBackground": "#000000",
-    "extensionBadge.remoteForeground": "#ffffff",
+    "extensionBadge.remoteForeground": "#154bdf",
     "extensionIcon.starForeground": "#ff8e00",
     "focusBorder": "#f38518",
     "foreground": "#ffffff",
@@ -193,10 +193,10 @@
     "gitDecoration.stageModifiedResourceForeground": "#e2c08d",
     "gitDecoration.submoduleResourceForeground": "#8db9e2",
     "gitDecoration.untrackedResourceForeground": "#73c991",
-    "icon.foreground": "#ffffff",
+    "icon.foreground": "#fc02b1",
     "input.background": "#000000",
     "input.border": "#6fc3df",
-    "input.foreground": "#ffffff",
+    "input.foreground": "#ced120",
     "input.placeholderForeground": "#ffffffb3",
     "inputOption.activeBackground": "#00000000",
     "inputOption.activeBorder": "#6fc3df",
@@ -634,7 +634,7 @@
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#d68956"
       }
     },
     {
@@ -646,7 +646,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#fd7171"
       }
     },
     {
@@ -811,25 +811,25 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#008afc"
       }
     },
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#5ac744"
       }
     },
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#5ac744"
       }
     },
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#5ac744"
       }
     },
     {
@@ -847,7 +847,7 @@
     {
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#B5CEA8"
+        "foreground": "#a858eb"
       }
     },
     {
